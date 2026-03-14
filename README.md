@@ -162,7 +162,7 @@ Full-stack investment management platform with fixed/variable income tracking, s
 
 ---
 
-## 🐍 My Commits
+## 🐍 Watch the snake eat my commits
 
 <div align="center">
 
@@ -180,7 +180,7 @@ Full-stack investment management platform with fixed/variable income tracking, s
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matgaldino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matgaldino&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matgaldino&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
