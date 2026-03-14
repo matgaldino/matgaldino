@@ -15,7 +15,6 @@
 
 🎓 Dual-degree student at **Polytech Sorbonne** (Paris) & **UNIFEI** (Brazil)  
 📍 Based in **Paris, France** — Open to internships across **France & Europe**  
-🚀 Former Electronics Lead at **Beyond Rocket Design** student rocketry team  
 📬 [matheusgaldino2011@gmail.com](mailto:matheusgaldino2011@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheussistongaldino/)
@@ -163,6 +162,20 @@ Full-stack investment management platform with fixed/variable income tracking, s
 
 ---
 
+## 🐍 My Commits
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matgaldino/matgaldino/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matgaldino/matgaldino/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/matgaldino/matgaldino/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -174,21 +187,7 @@ Full-stack investment management platform with fixed/variable income tracking, s
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=matgaldino&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🐍 Eating my commits since day one
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matgaldino/matgaldino/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matgaldino/matgaldino/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/matgaldino/matgaldino/output/github-contribution-grid-snake.svg" />
-</picture>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matgaldino&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
