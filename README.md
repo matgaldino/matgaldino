@@ -179,9 +179,7 @@ Full-stack investment management platform with fixed/variable income tracking, s
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matgaldino&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matgaldino&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
