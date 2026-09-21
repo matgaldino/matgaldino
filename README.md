@@ -36,7 +36,7 @@ Currently in my 4th year at **Polytech Sorbonne** through the BRAFITEC excellenc
 - 🌐 Experienced with full-stack development when the project calls for it
 - 🏅 Competitive programmer — Gold & Bronze medals in regional tournaments
 
-> **💼 Actively seeking an internship in France or Europe (2025–2026)**
+> **💼 Actively seeking an internship in France or Europe (2026–2027)**
 
 ---
 
